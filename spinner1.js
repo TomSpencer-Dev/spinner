@@ -1,5 +1,5 @@
 setTimeout(() => {
-  process.stdout.write('\r\   ');
+  process.stdout.write('\r|   ');
 }, 100);
 
 setTimeout(() => {
